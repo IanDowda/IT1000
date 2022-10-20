@@ -1,4 +1,5 @@
 # _My High School Career_
+###### [Home](https://github.com/IanDowda/IT1000/blob/e5e4c2a663b00eb9e0906478f6f926019141c9d2/README.md)
  
 I attended school in **Aurora, Colorado** called [Vista Peak Preparatory](https://vistapeakprep.aurorak12.org/) from 2010 to 2014. The school introduced into the district a varied class structure. Beyond the general education classes an option for 'specialization' or 'pathway learning' was introduced. The options were:
 
