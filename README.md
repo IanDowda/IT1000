@@ -1,2 +1,4 @@
-# IT1000
-IT1000 Module 9 Mid-Term Project
+# _IT1000 Mid-Term Project_
+### by **Ian Dowda**
+
+
