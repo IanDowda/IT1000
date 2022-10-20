@@ -1,14 +1,45 @@
-# _IT1000 Mid-Term Project_
-### by Ian Dowda
+# _My Favorite Assignment_
+###### [Home](https://github.com/IanDowda/IT1000/blob/e5e4c2a663b00eb9e0906478f6f926019141c9d2/README.md)
 
-Hello, My name is **Ian Dowda**. This site here is an introduction to me as a person and some of the things I have done.
+So far in my college career my favorite assignment has been the Turtle Graphics module in the class's Python examination.
 
-  [High School](https://github.com/IanDowda/IT1000/blob/68b357753f3e19475c89d4b5f91db3542cafb177/README.md)
-  
-  [Work Experience]()
-  
-  [Attending College]()
-  
-  [My Favorite Assignment]()
-  
-  [Future Goals]()
+The code for my submission looks like this:
+
+```
+import turtle
+turtle.color('purple')
+turtle.penup()
+turtle.circle(100, 90)
+turtle.pendown()
+turtle.circle(100, 180)
+turtle.circle(1, 60)
+turtle.circle(200, 60)
+turtle.penup()
+turtle.circle(1, 63)
+turtle.circle(100, 45)
+turtle.circle(1, 100)
+turtle.circle(200, 28)
+turtle.pendown()
+turtle.color('brown')
+turtle.circle(200, 32)
+turtle.right (90)
+turtle.circle (-100,65)
+turtle.right (78)
+turtle.circle(200, 29)
+turtle.penup()
+turtle.circle(200, 11)
+turtle.pendown()
+turtle.color('red')
+turtle.circle (10)
+turtle.penup()
+turtle.circle (-100,30)
+turtle.pendown()
+turtle.circle (10)
+turtle.penup()
+turtle.right(110)
+turtle.circle (110,30)
+turtle.pendown()
+turtle.circle (10)
+```
+
+These lines of code make a nice drawing of a purple and brown mushroom with red spots.
