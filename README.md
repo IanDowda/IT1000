@@ -1,14 +1,3 @@
-# _IT1000 Mid-Term Project_
-### by Ian Dowda
-
-Hello, My name is **Ian Dowda**. This site here is an introduction to me as a person and some of the things I have done.
-
-  [High School](https://github.com/IanDowda/IT1000/blob/68b357753f3e19475c89d4b5f91db3542cafb177/README.md)
-  
-  [Work Experience]()
-  
-  [Attending College]()
-  
-  [My Favorite Assignment]()
-  
-  [Future Goals]()
+# _Attending College_
+###### [Home](https://github.com/IanDowda/IT1000/blob/e5e4c2a663b00eb9e0906478f6f926019141c9d2/README.md)
+This college experience is new to me. I am thankful to have been accepted to the _University of Missouri_. I feel this is where I will recieve all the **education** and **opportunities** I will need to succeed.
